@@ -1,0 +1,11 @@
+body {
+    background-color: turquoise ;
+}
+
+h1 {
+    text-align:center;
+    font-family: "Verdana", serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-size: 175%
+}
